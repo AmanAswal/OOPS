@@ -1,0 +1,1 @@
+t<<"The id of this employee is : "<<id<<" and this is employee number "<<count<<

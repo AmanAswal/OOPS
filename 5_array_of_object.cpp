@@ -20,10 +20,12 @@ int main()
     // Employee aman, minku, harry, shruti;
     // harry.setId();
     // harry.getId();
+    int noOfEmployees;
+    cout<<"Enter the size of company: "; cin>>noOfEmployees;
+    Employee fb[noOfEmployees];
+    int n = sizeof(fb)/sizeof(fb[0]);
 
-    Employee fb[4];
-
-    for(int i=0; i<4; i++){
+    for(int i=0; i<n; i++){
         fb[i].setId();
         fb[i].getId();
     }

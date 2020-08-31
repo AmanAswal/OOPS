@@ -26,7 +26,7 @@ int Employee :: count;  // Default value is 0
 
 int main()
 {
-    Employee aman, rohan, minku;
+    Employee aman, rohan, minku; // object declaration
     // count is the static data member of Class Employee
 
     // aman.id = 1;
