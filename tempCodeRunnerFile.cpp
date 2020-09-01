@@ -1,1 +1,2 @@
-t<<"The id of this employee is : "<<id<<" and this is employee number "<<count<<
+friend int Calculator :: sumRealComplex(Complex o1, Complex o2); 
+    // friend int Calculator :: sumCompComplex(Complex o1, Complex o2);
